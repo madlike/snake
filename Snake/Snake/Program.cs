@@ -24,7 +24,7 @@ namespace Snake
             p2.Draw();
 
                                     
-            Console.ReadLine();
+            Console.ReadLine(124124);
         
         }
         static void Draw(int x, int y, char sym)
